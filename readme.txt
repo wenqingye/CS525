@@ -12,10 +12,7 @@ The goal of this assignment is to create a record manager. The record manager ha
 
 Group Members:
 ——————————————
-Wenqing Ye           A20351251
-Xin Liu              A20353208
-Hua Yang             A20358049
-Rui Zou              A20351034
+
 
 ===============================================================================
 
