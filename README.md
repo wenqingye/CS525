@@ -1,5 +1,5 @@
 # CS525
-Advanced Database
+Advanced Database Design
 
 Storage Manager: Implement a storage manager that allows read/writing of blocks to/from a file on disk
 
